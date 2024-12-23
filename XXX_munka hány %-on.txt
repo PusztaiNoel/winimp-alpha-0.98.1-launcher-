@@ -1,0 +1,28 @@
+################################
+Létrehozás dátuma: 2024.12.18
+Utoljára szerk ideje: 2024.12.23
+################################
+Verió: 0.98.9
+Össz százalékban: 99%
+Újdonságok:
+1. Black Mesa rész kész (0.25)
+2. Sokkal Több zene elérhető (0.5)
+3. Jóformán csak finomítani kell (0.71)
+4. Egyéb/Több kategória (0.82)
+5. Full zene (0.82)
+6. A kategóriák készen vannak (0.91)
+7. Noobs In Combat hozzá adva és a 8 zene helyett 16 (0.97.4)
+8. Össz zene ".CSS"-ben van a könnyebb kezelés miatt (0.98.9)
+9.
+Egyéb:
+1. Egy órás zene is van (0.5)
+2. ABC sorrendben vannak a zenék (0.82)
+3. Egyesült a "Nudli"-val (0.87)
+4. MORE kategória nagyon vegyes (0.95)
+5.
+Bugok:
+1. a "<hr>" parancs nem hat a "#tömb" részben (0.95)
+2. 
+3.
+################################
+Össz idő: ~11.5 óra

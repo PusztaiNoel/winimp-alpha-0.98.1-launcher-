@@ -1,0 +1,23 @@
+#MAIN {
+    color: black;
+}
+
+body {
+    background-color: darkgrey;
+}
+#cim {
+    background-color: grey;
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+#vege {
+    background-color: grey;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+#zene {
+    background-color: lightslategray;
+    margin-top: -15px;
+    margin-bottom: -15px;
+    width: 100%;
+}

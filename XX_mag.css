@@ -1,0 +1,76 @@
+hr{
+    color: red;
+    background-color: red;
+}
+
+#tömb {
+    background-color: lightslategray;
+}
+
+#valasztovonal {
+    background-color: red;
+}
+
+#szinezes {
+    background-color: lightslategray;
+}
+
+li {
+    margin-top: 3.5px;
+    margin-bottom: 3.5px;
+    margin: 5px;
+}
+
+#IamN___a {
+    color: brown;
+}
+#IamGay {
+    color: purple;
+}
+#IamRed {
+    color: red;
+}
+#IamBlue {
+    color: blue;
+}
+
+#szeleskep {
+    height: 500px;
+    margin-top: -13px;
+    margin-bottom: -270px;
+    background-color: none
+}
+
+a {
+    color: black;
+}
+
+body {
+    background-color: darkgrey;
+}
+#cim {
+    background-color: grey;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+#vege {
+    background-color: grey;
+    margin-top: 5px;
+    margin-bottom: 0px;
+}
+#zene {
+    background-color: lightslategray;
+    margin-top: -15px;
+    margin-bottom: -20px;
+}
+#zene2 {
+    background-color: lightslategray;
+    margin-top: 45px;
+    margin-bottom: -20px;
+}
+
+#zene3 {
+    background-color: lightslategray;
+    margin-top: 22px;
+    margin-bottom: -15px;
+}
